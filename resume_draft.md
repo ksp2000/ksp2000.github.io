@@ -12,7 +12,7 @@ name: Sai Praneeth Konda
 
 ## Objective
 
-Certified Snowflake, Databricks and Microsoft Data Engineer with 5 years of experience in building scalable data pipelines, centralizing structured and unstructured data, and driving data strategy in enterprise environments. Skilled data modeling, Snowflake, and data governance with a strong foundation in Python and Azure. Seeking to contribute to a high-impact Data &amp; AI team through collaborative, end-to-end data engineering solutions.
+Certified Snowflake, Databricks and Microsoft Data Engineer with 5 years of experience in building scalable data pipelines, centralizing structured and unstructured data, and driving data strategy in enterprise environments. Skilled data modeling, Snowflake, and data governance with a strong foundation in Python. Experienced 4 years in Azure Cloud. Seeking to contribute to a high-impact Data &amp; AI team through collaborative, end-to-end data engineering solutions.
 
 
 ## Experience
